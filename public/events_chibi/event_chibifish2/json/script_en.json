@@ -1,623 +1,690 @@
 [
-    {
-        "image": "morning.webp",
-        "text": "Chibi Bana: \"Let's eat! Now move it, you lazy slug!\""
-    },
-    {
-        "image": "morning.webp",
-        "text": "You: \"...Let's eat.\""
-    },
-    {
-        "image": "morning.webp",
-        "text": "...According to the teachings of the Triple Fried Rice sect, the morning greeting is \"itadakimasu.\""
-    },
-    {
-        "image": "chibibana_strange_look.webp",
-        "text": "Chibi Bana: \"You... you're still weak in the mornings, huh? Then what are you even good at?\""
-    },
-    {
-        "image": "chibibana_strange_look.webp",
-        "text": "You: \"It's not like I'm physically weak or anything... but still, 2 AM is just too early...\""
-    },
-    {
-        "image": "chibibana_strange_look.webp",
-        "text": "Chibi Bana: \"You've got to be kidding! Fishermen are usually up around this time!\""
-    },
-    {
-        "image": "cuttingbread.webp",
-        "text": "Chibi Hana: \"Same with bakeries, you know! It takes time from mixing to fermentation!\""
-    },
-    {
-        "image": "morning.webp",
-        "text": "You: \"What are you talking about?!\""
-    },
-    {
-        "image": "woshigo.webp",
-        "text": "Chibi Bana: \"Anyway, let's just get going.\""
-    },
-    {
-        "image": "woshigo.webp",
-        "text": "You: \"What about Tachibana? Aren't you going to invite her?\""
-    },
-    {
-        "image": "woshigo.webp",
-        "text": "Chibi Bana: \"Sis can't wake up that early... anyway, she's busy. Let her sleep.\""
-    },
-    {
-        "image": "woshigo.webp",
-        "text": "You: \"Got it.\""
-    },
-    {
-        "image": "snowpier.webp",
-        "text": "Chibi Bana: \"Okay, since you're a beginner and night is dangerous, we'll fish somewhere with proper safety rails.\""
-    },
-    {
-        "image": "snowpier.webp",
-        "text": "Chibi Bana: \"And take care of the trash. It'd be awful for the fish if the wind blew garbage into the ocean.\""
-    },
-    {
-        "image": "snowpier.webp",
-        "text": "Chibi Bana: \"Also, you've got a life jacket, right? The ocean at night is scary without one.\""
-    },
-    {
-        "image": "snowpier.webp",
-        "text": "You: \"Alright, understood. I guess we have to act like something dangerous could happen.\""
-    },
-    {
-        "image": "snowpier.webp",
-        "text": "Chibi Bana: \"Exactly. Respect nature. Don't take it lightly. If you do, you'll come back alive. Better to be prepared than to pray, right? Lady Luck won't save you, but a life jacket will.\""
-    },
-    {
-        "image": "snowpier.webp",
-        "text": "A few minutes later..."
-    },
-    {
-        "image": "chibi_letseatyah.webp",
-        "text": "Chibi Bana: \"Okay, let's bait the hooks! Good morning, little worms!\""
-    },
-    {
-        "image": "chibi_letseatyah.webp",
-        "text": "You: \"Eek!\""
-    },
-    {
-        "image": "chibi_letseatyah.webp",
-        "text": "Chibi Bana: \"Quiet down, will ya? What time do you think it is?!\""
-    },
-    {
-        "image": "yakkun8.webp",
-        "text": "You: \"B-but... bu-because... *sob*...\""
-    },
-    {
-        "image": "yakkun8.webp",
-        "text": "Chibi Bana: \"You pathetic thing... Listen, just man up and grab one already, okay? It's all about getting used to it. The more you handle them, the more used you'll be. Their faces aren't so bad, you know!\""
-    },
-    {
-        "image": "yakkun8.webp",
-        "text": "Chibi Bana: \"So this here is the head. And this is the mouth. You put the hook tip right in front of the mouth like this. Then these little guys will swallow the hook. Now push it through that barb here. That way the bait stays on better.\""
-    },
-    {
-        "image": "yakkun8.webp",
-        "text": "You: \"...This is pretty gross.\""
-    },
-    {
-        "image": "yakkun8.webp",
-        "text": "Chibi Bana: \"Well, that's just how it is. It's the circle of life, after all.\""
-    },
-    {
-        "image": "youhavewater.webp",
-        "text": "You: \"Wouldn't a lure work instead?\""
-    },
-    {
-        "image": "youhavewater.webp",
-        "text": "Chibi Bana: \"Ah, lures are tricky. You see, a lure is basically a fake fish. But it doesn't move by itself. So you have to use the reel and rod to make it look like it's swimming... it's really tough to do.\""
-    },
-    {
-        "image": "youhavewater.webp",
-        "text": "Chibi Bana: \"Plus, it could be that we're not handling it right, or maybe the lure just doesn't appeal to the fish here. Some fish only go for certain lures, you know? Figuring that out is a whole job in itself.\""
-    },
-    {
-        "image": "youhavewater.webp",
-        "text": "Chibi Bana: \"Well, at least at first we want to catch something. So just be quiet and attach the bait.\""
-    },
-    {
-      
-        "image": "youhavewater.webp",
-        "text": "A few minutes later..."
-    },
-    {
-        "image": "thinkingstill.webp",
-        "text": "Chibi Bana: \"You said you've never gone fishing before. Didn't you ever fish as a kid?\""
-    },
-    {
-        "image": "thinkingstill.webp",
-        "text": "You: \"I have tried, but all I remember is I only caught a blowfish. I figured catching something edible must be hard, so I didn't really get into it.\""
-    },
-    {
-        "image": "thinkingstill.webp",
-        "text": "Chibi Bana: \"Ah, I see... Filleting it and eating it afterwards is basically the main event, isn't it? It's like pachinko—those arcade versions aren't fun unless you win real money.\""
-    },
-    {
-        "image": "youhavewater.webp",
-        "text": "You (thinking): \"Is this really a little girl...?\""
-    },
-    {
-        "image": "youhavewater.webp",
-        "text": "You: \"Huh?!\""
-    },
-    {
-        "image": "youhavewater.webp",
-        "text": "You: \"Wait, did something just bite?\""
-    },
-    {
-        "image": "angrykid_lowres.webp",
-        "text": "Chibi Bana: \"Oh! Try reeling it in a bit!\""
-    },
-    {
-        "image": "angrykid_lowres.webp",
-        "text": "You: \"Whoa?! Something's on the line?!\""
-    },
-    {
-        "image": "angrykid_lowres.webp",
-        "text": "Chibi Bana: \"Great! Keep reeling it in like that!\""
-    },
-    {
-        "image": "angrykid_lowres.webp",
-        "text": "You: \"Uwoooaarghhh!\""
-    },
-    {
-        "image": "angrykid_lowres.webp",
-        "text": "You: \"Whoa?!\""
-    },
-    {
-        "image": "angrykid_lowres.webp",
-        "text": "Chibi Bana: \"It's a goby! Nice, that's an edible fish!\""
-    },
-    {
-        "image": "angrykid_lowres.webp",
-        "text": "You: \"Oh, cool! How do we cook it?\""
-    },
-    {
-        "image": "whiting.webp",
-        "text": "Chibi Bana: \"Tempura is really good. It tastes almost exactly like whiting!\""
-    },
-    {
-        "image": "whiting.webp",
-        "text": "Chibi Bana: \"They're usually caught in brackish water, but you can catch them in the ocean too. Really tasty fish. Nice going!\""
-    },
-    {
-        "image": "whiting.webp",
-        "text": "You: \"What's brackish water?\""
-    },
-    {
-       "image": "whiting.webp",
-        "text": "Chibi Bana: \"Fresh water is around 0\u20130.5\u2030 (rivers, lakes, etc.). Brackish water is 0.5\u201317\u2030 (estuaries, tidal flats, bays where fresh and salt water mix). Sea water is about 35\u2030 (normal ocean). Above 40\u2030 is like the Dead Sea or other enclosed salt lakes. Basically, gobies like lightly salty water.\""
-    },
-    {
-        "image": "angrykid_lowres.webp",
-        "text": "You: \"Oh! You can even eat them at restaurants? I haven't seen them around much.\""
-    },
-    {
-        "image": "angrykid_lowres.webp",
-        "text": "Chibi Bana: \"Yeah, I sometimes see them in fish tanks. But from my experience they're very rare. Well, they don't look super appealing, you know. But I like them.\""
-    },
-    {
-        "image": "angrykid_lowres.webp",
-        "text": "You: \"Oh! Another hit!\""
-    },
-    {
-        "image": "angrykid_lowres.webp",
-        "text": "Chibi Bana: \"Nice going! That's already a good catch. And they're a nice size!\""
-    },
-    {
-        "image": "pachinko.webp",
-        "text": "You: \"This must be a whiting, right?!\""
-    },
-    {
-        "image": "pachinko.webp",
-        "text": "Chibi Bana: \"That's right! By the way, this fish is also called the 'Queen of the Shore'.\""
-    },
-    {
-        "image": "pachinko.webp",
-        "text": "You: \"Cool...\""
-    },
-    {
-        "image": "squid_old_man.webp",
-        "text": "Chibi Bana: \"Great job! That's already a good catch.\""
-    },
-    {
-        "image": "squid_old_man.webp",
-        "text": "You: \"Way more wholesome than pachinko, plus it's cheap and risk-free. It's a great hobby.\""
-    },
-    {
-        "image": "squid_old_man.webp",
-        "text": "Chibi Bana: \"Right. Both have their merits, of course. But if you're trying to quit gambling, maybe give fishing a try?\""
-    },
-    {
-        "image": "squid_old_man.webp",
-        "text": "Chibi Bana: \"I know this old guy called 'Squid Grandpa', a monster obsessed with squid fishing. When squid season comes, he fishes for hours on end, then lines them up in his fridge - his catch.\""
-    },
-    {
-        "image": "squid_old_man.webp",
-        "text": "Chibi Bana: \"He arranges them like he's honoring the dead. That guy's a real y\u014dkai. He's addicted, but no one's hurt, and it costs nothing, and it becomes a skill. It's a good hobby.\""
-    },
-    {
-        "image": "squid_old_man.webp",
-        "text": "Chibi Bana: \"But I think playing pachinko in moderation is fine. GARO is really cool, after all.\""
-    },
-    {
-        "image": "chibibana_angry_a_bit.webp",
-        "text": "You: \"By the way, have you ever played pachinko yourself...?\""
-    },
-    {
-        "image": "chibibana_angry_a_bit.webp",
-        "text": "Chibi Bana: \"Of course not! I'm underage!\""
-    },
-    {
-        "image": "chibibana_angry_a_bit.webp",
-        "text": "You: \"Then how do you know so much about it?!\""
-    },
-    {
-        "image": "yattyaare.webp",
-        "text": "Chibi Bana: \"Anyway, great, great! Let's keep this up and catch as many as we need!\""
-    },
-    {
-        "image": "otsu_face_compressed.webp",
-        "text": "You: \"Huh... but, senior...? You? We haven't caught anything, have we...?\""
-    },
-    {
-        "image": "nannyanen.webp",
-        "text": "Chibi Bana: \"What the heck is up with you suddenly... trying to one-up me at every chance, that's super lame.\""
-    },
-    {
-        "image": "bakanisiteiru.webp",
-        "text": "You: \"Huh?! You were acting all high and mighty... showing off your knowledge, and yet... we haven't caught a single fish, right? Isn't that weird?\""
-    },
-    {
-        "image": "nannyanen.webp",
-        "text": "Chibi Bana: \"What the hell is wrong with you! Seizing the moment, huh! Don't screw around with me! Fine, let's make it a challenge! But not by number of fish, by total weight! If I win, I'll toss you into the ocean and feed you to the fish!\""
-    },
-    {
-        "image": "nannyanen.webp",
-        "text": "You: \"I can't take that bet! That's too scary!\""
-    },
-    {
-        "image": "fished1.webp",
-        "text": "A few minutes later..."
-    },
-    {
-        "image": "chibi_loose.webp",
-        "text": "Chibi Bana: \"Nothing's biting!\""
-    },
-    {
-        "image": "youwin.webp",
-        "text": "You: \"I got one!\""
-    },
-    {
-        "image": "angry_to_ladyluck.webp",
-        "text": "Chibi Bana: \"What is this beginner's luck?! What did I ever do to you?! Hey, Lady Luck! Show yourself and give me a fair fight!\""
-    },
-    {
-        "image": "angry_to_ladyluck.webp",
-        "text": "You: \"Stop it! That's beyond blasphemy!\""
-    },
-    {
-        "image": "lookingdown.webp",
-        "text": "You: \"Man, seriously...\""
-    },
-    {
-        "image": "lookingdown.webp",
-        "text": "Chibi Bana: \"What are you looking at?!\""
-    },
-    {
-        "image": "smug.webp",
-        "text": "You: \"Having knowledge alone isn't enough, is it... It has to be backed up by skill, I guess...\""
-    },
-    {
-        "image": "izakaya.webp",
-        "text": "You: \"It's like one of those old guys in an izakaya criticizing a baseball player's form...\""
-    },
-    {
-        "image": "izakaya.webp",
-        "text": "Old Man: \"Yeah, with that form he'll never make it this year! You gotta move your hips like this...!\""
-    },
-    {
-        "image": "lookingdown.webp",
-        "text": "You: \"I'd be like, 'Then why don't you show me how it's done?'\""
-    },
-    {
-        "image": "smug.webp",
-        "text": "You: \"I feel exactly the same right now.\""
-    },
-    {
-        "image": "compressed_angrygirl.webp",
-        "text": "Chibi Bana: \"Aaaaargh! Sink him! Right now! I'll send you and Lady Luck straight to hell!\""
-    },
-    {
-        "image": "compressed_angrygirl.webp",
-        "text": "You: \"No to violence! Calm down, please! And watch your language!\""
-    },
-    {
-        "image": "angry2.webp",
-        "text": "Chibi Bana: \"Damn... I do look like a total idiot if this goes on... Seriously... huh?\""
-    },
-    {
-        "image": "chibi_happy.webp",
-        "text": "Chibi Bana: \"This one's huge!!!!!\""
-    },
-    {
-        "image": "chibi_happy.webp",
-        "text": "You: \"Whoa! What is this twist?!\""
-    },
-    {
-        "image": "35508da8-6914-4ac7-a9e8-23110aeae100.webp",
-        "text": "Chibi Bana: \"And... this is bad. It might be a sea bass. The rod's going to break.\""
-    },
-    {
-        "image": "35508da8-6914-4ac7-a9e8-23110aeae100.webp",
-        "text": "You: \"What is it, that's so big?\""
-    },
-    {
-        "image": "35508da8-6914-4ac7-a9e8-23110aeae100.webp",
-        "text": "Chibi Bana: \"Yeah... a bit of a pinch... but remember Santiago...\""
-    },
-    {
-        "image": "a0dc3b1d-3d48-42ba-b39a-600783a9db16.webp",
-        "text": "Chibi Bana: \"You! Bring the net (that big bug-catching kind of net)!\""
-    },
-    {
-        "image": "a0dc3b1d-3d48-42ba-b39a-600783a9db16.webp",
-        "text": "You: \"Okay! I got it! What should I do?!\""
-    },
-    {
-        "image": "a0dc3b1d-3d48-42ba-b39a-600783a9db16.webp",
-        "text": "Chibi Bana: \"I'll reel it in! I'll call the timing! Use the net then! The net is collapsible - don't open it, keep it folded!\""
-    },
-    {
-        "image": "35508da8-6914-4ac7-a9e8-23110aeae100.webp",
-        "text": "You: \"Understood!\""
-    },
-    {
-        "image": "35508da8-6914-4ac7-a9e8-23110aeae100.webp",
-        "text": "Chibi Bana: \"Alright! I've got it in! Now extend the net!\""
-    },
-    {
-        "image": "35508da8-6914-4ac7-a9e8-23110aeae100.webp",
-        "text": "You: \"Yes!... Huh?\""
-    },
-    {
-        "image": "eccb3853-f671-4e79-9816-37ef022865fb.webp",
-        "text": "Chibi Bana: \"No way! It's a swordfish! How?!\""
-    },
-    {
-        "image": "eccb3853-f671-4e79-9816-37ef022865fb.webp",
-        "text": "You: \"Hey, this thing is super heavy! We can't collapse it!\""
-    },
-    {
-        "image": "eccb3853-f671-4e79-9816-37ef022865fb.webp",
-        "text": "Chibi Bana: \"Damn! Then it's on like this!\""
-    },
-    {
-        "image": "chibi_fished_a_swordfish.webp",
-        "text": "Chibi Bana: \"Uwoooaaaarghhh!\""
-    },
-    {
-        "image": "chibi_fished_a_swordfish.webp",
-        "text": "You: \"Whaaat?!\""
-    },
-    {
-        "image": "chibi_fished_a_swordfish.webp",
-        "text": "Chibi Bana: \"I did it! My first swordfish!\""
-    },
-    {
-        "image": "chibi_fished_a_swordfish.webp",
-        "text": "You: \"Awesome... I mean, why is there one here of all places...?\""
-    },
-    {
-        "image": "b7e1970a-babd-4237-8ab4-18c0d26a798b.webp",
-        "text": "Chibi Bana: \"I have no idea... it's so heavy... Is it always this heavy? But Santiago caught an even bigger one... I still have a long way to go...\""
-    },
-    {
-        "image": "b7e1970a-babd-4237-8ab4-18c0d26a798b.webp",
-        "text": "You: \"No, this is incredible! And hey, we didn't even need the net after all!\""
-    },
-    {
-        "image": "b7e1970a-babd-4237-8ab4-18c0d26a798b.webp",
-        "text": "Chibi Bana: \"Yeah... I mean... with this our total weight has surpassed yours.\""
-    },
-    {
-        "image": "b7e1970a-babd-4237-8ab4-18c0d26a798b.webp",
-        "text": "You: \"...You're right.\""
-    },
-    {
-        "image": "firepose_compressed.webp",
-        "text": "Chibi Bana: \"With this I could legally toss you into the ocean...\""
-    },
-    {
-        "image": "firepose_compressed.webp",
-        "text": "You: \"That wouldn't stand in a court of law! Please stop! I'm begging you!\""
-    },
-    {
-        "image": "1f4f93a0-2722-4620-b7ad-1188c59815c0.webp",
-        "text": "Chibi Bana: \"...Well, fine then. I'm in a good mood now. But as punishment for insulting me, help me clean up.\""
-    },
-    {
-        "image": "1f4f93a0-2722-4620-b7ad-1188c59815c0.webp",
-        "text": "You: \"Is that really okay?\""
-    },
-    {
-        "image": "1f4f93a0-2722-4620-b7ad-1188c59815c0.webp",
-        "text": "Chibi Bana: \"Of course! We gotta end these things on a good note, you know. Now hurry up and do it. And wash off those spots with that bucket.\""
-    },
-    {
-        "image": "morning.webp",
-        "text": "Chibi Bana: \"Alright, let's go home!\""
-    },
-    {
-        "image": "23b97add-0f3e-45dd-81db-7fc6203ed9ce.webp",
-        "text": "You: \"Carry it?\""
-    },
-    {
-        "image": "23b97add-0f3e-45dd-81db-7fc6203ed9ce.webp",
-        "text": "Chibi Bana: \"You carry it! Obviously! The fish are already gutted, right?!\""
-    },
-    {
-        "image": "23b97add-0f3e-45dd-81db-7fc6203ed9ce.webp",
-        "text": "You: \"By the way, who's going to filet these fish?\""
-    },
-    {
-        "image": "23b97add-0f3e-45dd-81db-7fc6203ed9ce.webp",
-        "text": "Chibi Bana: \"Sis will filet them. But I wonder if she can handle a swordfish...\""
-    },
-    {
-        "image": "2a3a832d-7834-4fd5-b736-2b91f612dd18.webp",
-        "text": "You: \"Right... Probably there's nothing on YouTube either... how to fillet one...\""
-    },
-    {
-        "image": "2a3a832d-7834-4fd5-b736-2b91f612dd18.webp",
-        "text": "Chibi Bana: \"I found it.\""
-    },
-    {
-        "image": "2a3a832d-7834-4fd5-b736-2b91f612dd18.webp",
-        "text": "You: \"You did!?\""
-    },
-    {
-        "image": "2a3a832d-7834-4fd5-b736-2b91f612dd18.webp",
-        "text": "Chibi Bana: \"And plenty of it.\""
-    },
-    {
-        "image": "2a3a832d-7834-4fd5-b736-2b91f612dd18.webp",
-        "text": "You: \"You're right... this is really helpful...!\""
-    },
-    {
-        "image": "2a3a832d-7834-4fd5-b736-2b91f612dd18.webp",
-        "text": "Chibi Bana: \"Alright! If it's like this, my sis can do it!\""
-    },
-    {
-        "image": "chibi_shows_tachibana.webp",
-        "text": "Chibi Bana: \"I'm home!\""
-    },
-    {
-        "image": "chibi_shows_tachibana.webp",
-        "text": "Tachibana: \"Welcome back!\""
-    },
-    {
-        "image": "chibi_shows_tachibana.webp",
-        "text": "Tachibana: \"Whoa?! What is this?!\""
-    },
-    {
-        "image": "chibi_shows_tachibana.webp",
-        "text": "Chibi Bana: \"Amazing, right! It's a swordfish! Small, but I caught it!\""
-    },
-    {
-        "image": "chibi_catch_.webp",
-        "text": "Tachibana: \"How did you even catch something like this... Did you fish it out? Did you get on a boat?\""
-    },
-    {
-        "image": "chibi_catch_.webp",
-        "text": "Chibi Bana: \"No! From the pier! We used sandworms as bait!\""
-    },
-    {
-        "image": "chibi_catch_.webp",
-        "text": "Tachibana: \"Is that even possible?!\""
-    },
-    {
-        "image": "chibi_telling_happily.webp",
-        "text": "Chibi Bana: \"Amazing, right? Give me praise, praise me!\""
-    },
-    {
-        "image": "chibi_telling_happily.webp",
-        "text": "Tachibana: \"Oh, wow, wow! Good job, good job...\""
-    },
-    {
-        "image": "chibi_telling_happily.webp",
-        "text": "Chibi Bana: \"And then goby and whiting! These he caught! I'm actually pretty good at this!\""
-    },
-    {
-        "image": "chibi_telling_happily.webp",
-        "text": "Chibi Bana: \"You didn't let a single one slip away, did you?! That's pretty amazing.\""
-    },
-    {
-        "image": "chibi_telling_happily.webp",
-        "text": "You (thinking): \"Is this heaven...? Did I do something good in my past life...?\""
-    },
-    {
-        "image": "tachibanahastle.webp",
-        "text": "Tachibana: \"This is incredible! Tonight it means swordfish fried rice, right? Goby fried rice! Whiting fried rice!\""
-    },
-    {
-        "image": "tachibanahastle.webp",
-        "text": "You: \"Wait, can't we have something else for once? Today of all days!\""
-    },
-    {
-        "image": "tachibanahastle.webp",
-        "text": "Tachibana: \"Right... we could do tempura with the goby and whiting... but how on earth do we fillet a swordfish?!\""
-    },
-    {
-        "image": "yamadasann.webp",
-        "text": "Chibi Bana: \"What about Yamamoto-san who has almost no teeth? He could probably do it, right?\""
-    },
-    {
-        "image": "yamadasann.webp",
-        "text": "Tachibana: \"Well, he hurt his back... I don't think he can fillet a swordfish right now... He might share later though...\""
-    },
-    {
-        "image": "compressed_fumufumu_scene.webp",
-        "text": "You: \"By the way, I bet there's a video on how to do it.\""
-    },
-    {
-        "image": "compressed_interaction_scene.webp",
-        "text": "Tachibana: \"Show me... If it's like this, maybe I can do it. There are a bunch of easy-to-understand videos.\""
-    },
-    {
-        "image": "compressed_interaction_scene.webp",
-        "text": "Tachibana: \"Alright, leave it to me!\""
-    },
-    {
-        "image": "cf5fe348-c4ab-4586-af6c-856553a8510e-thumbnail.webp",
-        "text": "Tachibana: \"Yes!\""
-    },
-    {
-        "image": "cf5fe348-c4ab-4586-af6c-856553a8510e-thumbnail.webp",
-        "text": "You: \"Is that how you hold a knife?!\""
-    },
-    {
-        "image": "cf5fe348-c4ab-4586-af6c-856553a8510e-thumbnail.webp",
-        "text": "Tachibana: \"Of course... this way it's hard to put strength into... \""
-    },
-    {
-        "image": "cf5fe348-c4ab-4586-af6c-856553a8510e-thumbnail.webp",
-        "text": "You: \"I see... It might actually make sense.\""
-    },
-    {
-        "image": "cf5fe348-c4ab-4586-af6c-856553a8510e-thumbnail.webp",
-        "text": "Tachibana: \"You both look tired. I'll cook dinner. Wait here.\""
-    },
-    {
-        "image": "compressed_chahan_9.webp",
-        "text": "Tachibana: \"I'm done!\""
-    },
-    {
-        "image": "compressed_chahan_9.webp",
-        "text": "You: \"As expected, fried rice!\""
-    },
-     {"image": "compressed_chahan_9.webp", "text": "Tachibana: It's ready!"},
-  {"image": "compressed_chahan_9.webp", "text": "You: Knew it was gonna be fried rice!"},
-  {"image": "compressed_chahan_9.webp", "text": "Tachibana: But this time it's special—goes great even with sashimi!"},
-  {"image": "messi.webp", "text": "Chibi: Wow, sis! And you even sliced up the tuna perfectly... just from watching a video?"},
-  {"image": "messi.webp", "text": "Tachibana: Yeah! The tutorial was super clear. A good guide really makes things easier, huh?"},
-  {"image": "compressed_image.webp", "text": "Tachibana: Oh, and I tempura’d the gobies and whitings you caught too! Perfect size, and none of them swallowed the hook. You've got talent!"},
-  {"image": "compressed_image.webp", "text": "Chibi: Nailed it! Seriously, most people don’t catch anything their first time. You did amazing!"},
-  {"image": "compressed_image.webp", "text": "You: Ugh..."},
-  {"image": "compressed_image.webp", "text": "You (thinking): Maybe I died once and this is heaven... Like, in a past life I saved a cat or something, earned a bunch of karma, and now I'm here..."},
-  {"image": "compressed_image.webp", "text": "Chibi: What’s up with that face? Why you look like you're gonna cry with this awesome meal in front of you?"},
-  {"image": "compressed_face_image.webp", "text": "Tachibana: ...Did you hate the fried rice that much...? In the Triple Fried Rice Cult, if you don’t eat it once a day, Lady Luck hits you with a death penalty... So please... don’t cry..."},
-  {"image": "compressed_face_image.webp", "text": "You: That’s not it...! Wait, there are actual penalties?! You need to leave that cult immediately!"},
-  {"image": "compressed_output.webp", "text": "Chibi: When you feel like crying, just eat something good and soak in the bath. Then sleep. Your heart's probably just tired… or it’s the melatonin talking."},
-  {"image": "compressed_output.webp", "text": "Tachibana: Crying means your body still works. If you can cry, you can feel joy. And if you can feel joy, you can be happy. You're built for happiness, you know."},
-  {"image": "sisites_eat.webp", "text": "Chibi: Damn, sis really knows how to drop wisdom!"},
-  {"image": "sisites_eat.webp", "text": "You: ...Thanks. Both of you. Really."},
-  {"image": "sisites_eat.webp", "text": "Chibi: Of course, the flip side is I can totally snap too. So watch what you say. Next time you try to talk down to me, you better be ready for consequences."},
-  {"image": "sisites_eat.webp", "text": "You: ...Way to ruin the moment. But okay, fair."},
-  {"image": "compressed_image (1).webp", "text": "Tachibana: Alright everyone! Dig in! These are the fish you two caught!"}
+  {
+    "image": "morning.webp",
+    "text": "Chibi Bana: \"Let’s eat! You pathetic little slug!\""
+  },
+  {
+    "image": "morning.webp",
+    "text": "You: \"...Let’s eat.\""
+  },
+  {
+    "image": "morning.webp",
+    "text": "In the teachings of the Triple Fried Rice Faith, mornings start with 'Let’s eat.'"
+  },
+  {
+    "image": "chibibana_strange_look.webp",
+    "text": "Chibi Bana: \"You’re weak in the morning too... What *can* you beat?\""
+  },
+  {
+    "image": "chibibana_strange_look.webp",
+    "text": "You: \"It’s not like I’m physically weak… But still, 2 a.m. is way too early…\""
+  },
+  {
+    "image": "chibibana_strange_look.webp",
+    "text": "Chibi Bana: \"What are you talking about?! Fisherfolk usually get up around this time!\""
+  },
+  {
+    "image": "cuttingbread.webp",
+    "text": "Chibi Bana: \"Same goes for bakers! Bread needs time to rise and ferment!\""
+  },
+  {
+    "image": "cuttingbread.webp",
+    "text": "You: \"What are you even talking about?!\""
+  },
+  {
+    "image": "cuttingbread.webp",
+    "text": "Chibi Bana: \"Anyway, let’s go.\""
+  },
+  {
+    "image": "cuttingbread.webp",
+    "text": "You: \"What about Tachibana? Not inviting her?\""
+  },
+  {
+    "image": "neru_pose_compressed.webp",
+    "text": "Chibi Bana: \"My sister can’t wake up in the morning… And she’s busy too. Let her rest.\""
+  },
+  {
+    "image": "neru_pose_compressed.webp",
+    "text": "You: \"Got it.\""
+  },
+  {
+    "image": "fishing_scene_1_compressed.webp",
+    "text": "Chibi Bana: \"You're a beginner and it’s dangerous at night, so we’ll fish in a fenced-off spot this time.\""
+  },
+  {
+    "image": "fishing_scene_1_compressed.webp",
+    "text": "Chibi Bana: \"Make sure to manage your trash properly. If it blows into the sea, the fish will suffer.\""
+  },
+  {
+    "image": "fishing_scene_2_compressed.webp",
+    "text": "Chibi Bana: \"You brought your life jacket, right? The sea at night is no joke without one.\""
+  },
+  {
+    "image": "fishing_scene_2_compressed.webp",
+    "text": "You: \"Got it. Always assume danger before acting.\""
+  },
+  {
+    "image": "fishing_scene_2_compressed.webp",
+    "text": "Chibi Bana: \"Exactly. Understand nature, but never underestimate it. That’s how you stay alive. Preparation beats prayer. God won’t save your life, but a life jacket will.\""
+  },
+  {
+    "image": "fishing_scene_2_compressed.webp",
+    "text": "A few minutes later"
+  },
+  {
+    "image": "mimizu_green_compressed.webp",
+    "text": "Chibi Bana: \"Alright! Let’s bait the hooks! Good morning, my little worms!\""
+  },
+  {
+    "image": "mimizu_green_compressed.webp",
+    "text": "You: \"Gyaaaah!\""
+  },
+  {
+    "image": "mimizu_green_compressed.webp",
+    "text": "You: \"They’re way grosser than I imagined! Even if they’re cutely drawn!\""
+  },
+  {
+    "image": "chibibana_strange_look.webp",
+    "text": "Chibi Bana: \"Shut up! Do you even know what time it is?!\""
+  },
+  {
+    "image": "chibibana_strange_look.webp",
+    "text": "You: \"But… but… waaaah…\""
+  },
+  {
+    "image": "chibibana_strange_look.webp",
+    "text": "Chibi Bana: \"You’re pathetic… Look, just grab one already. You’ll get used to it. They’re kinda cute once you touch 'em.\""
+  },
+  {
+    "image": "chibi_catch_.webp",
+    "text": "Chibi Bana: \"This is the face. The mouth. You place the hook right in front of that mouth. They’ll bite and swallow it, and the barb here will keep them on. That way the bait stays secure.\""
+  },
+  {
+    "image": "chibi_catch_.webp",
+    "text": "You: \"...That's kinda brutal.\""
+  },
+  {
+    "image": "chibi_catch_.webp",
+    "text": "Chibi Bana: \"That's how it goes. It's life and death, after all.\""
+  },
+  {
+    "image": "youarethinkingandas_standing.webp",
+    "text": "You: \"Can't we just use lures or something?\""
+  },
+  {
+    "image": "lure_compressed.webp",
+    "text": "Chibi Bana: \"Ah, lures are tough. I mean, they’re fake fish, right? But they don’t move on their own. So you have to use the rod and reel to make them *look* like they're swimming... and that’s really hard.\""
+  },
+  {
+    "image": "lure_compressed.webp",
+    "text": "Chibi Bana: \"Also, sometimes you can’t tell if your technique is off or if the fish around here just don’t like that kind of lure. Fish have preferences, y’know. Like, certain lures only work on certain species. Figuring that out is tough too.\""
+  },
+  {
+    "image": "lure_compressed.webp",
+    "text": "Chibi Bana: \"Well, I want you to catch something today. So just shut up and bait the hook.\""
+  },
+  {
+    "image": "unyuunyu.webp",
+    "text": "You: \"Nnyuuu...\""
+  },
+  {
+    "image": "unyuunyu.webp",
+    "text": "Chibi Bana: \"Alright, I’ll do it for you this time. But little by little, you’ll get used to it. Eventually, you’ll do it yourself.\""
+  },
+  {
+    "image": "unyuunyu.webp",
+    "text": "You: \"Thanks.\""
+  },
+  {
+    "image": "conversation.webp",
+    "text": "A few minutes later"
+  },
+  {
+    "image": "conversation.webp",
+    "text": "Chibi: \"You said you’ve never been fishing before, but didn’t you try it as a kid?\""
+  },
+  {
+    "image": "conversation.webp",
+    "text": "You: \"Hmm, I did once. I only vaguely remember catching a pufferfish. I figured edible fish must be really hard to catch, and kinda lost interest after that.\""
+  },
+  {
+    "image": "chibifishing.webp",
+    "text": "Chibi: \"Ah, I see… Honestly, cleaning and eating the fish is the main event. Like, you can’t enjoy pachinko in an arcade, right? It’s gotta involve real money to be fun.\""
+  },
+  {
+    "image": "chibifishing.webp",
+    "text": "You: (Is this kid really a little girl…?)"
+  },
+  {
+    "image": "chibifishing.webp",
+    "text": "You: \"Huh!?\""
+  },
+  {
+    "image": "otsu_face_compressed.webp",
+    "text": "You: \"Wait, did something just... bite?\""
+  },
+  {
+    "image": "otsu_face_compressed.webp",
+    "text": "Chibi: \"Ooh! Try reeling it in a little!\""
+  },
+  {
+    "image": "otsu_face_compressed.webp",
+    "text": "You: \"Whoa?! Something’s really there?!\""
+  },
+  {
+    "image": "yattyaare.webp",
+    "text": "Chibi: \"Heck yeah! Just keep reeling it in! Don’t stop!\""
+  },
+  {
+    "image": "hakuryokufishing.webp",
+    "text": "You: \"UOOOORAAAAAARRRGHHHHH!!\""
+  },
+  {
+    "image": "you_fish_goby.webp",
+    "text": "You: \"!?\""
+  },
+  {
+    "image": "you_fish_goby.webp",
+    "text": "Chibi: \"It’s a goby! Nice one! You can eat that!\""
+  },
+  {
+    "image": "youarethinkingandas_standing.webp",
+    "text": "You: \"Oh cool! How do you cook it?\""
+  },
+  {
+    "image": "hazetokaiwasuruchibi.webp",
+    "text": "Chibi: \"Tempura’s great! It tastes almost exactly like whiting!\""
+  },
+  {
+    "image": "hazetokaiwasuruchibi.webp",
+    "text": "Chibi: \"They’re super common in brackish water, but you can catch them in the sea too. Tasty little guys. Good job.\""
+  },
+
+  {
+    "image": "hazetokaiwasuruchibi.webp",
+    "text": "You: \"What's brackish water?\""
+  },
+  {
+    "image": "explaine_ja.webp",
+    "text": "Chibi: \"You know freshwater and seawater, right? So you’ve got freshwater zones, seawater zones—and in between, that’s brackish water.\""
+  },
+  {
+    "image": "explaine_ja.webp",
+    "text": "Chibi: \"Freshwater: 0–0.5‰ (rivers, lakes), Brackish: 0.5–17‰ (estuaries, tidal flats, bays where fresh and sea mix), Seawater: ~35‰ (open ocean), High-salinity: 40‰+ (like the Dead Sea). Basically, gobies like that gentle saltiness.\""
+  },
+  {
+    "image": "explaine_ja.webp",
+    "text": "You: \"Huh, can you eat those at restaurants? I don’t think I’ve ever seen them.\""
+  },
+  {
+    "image": "hazetokaiwasuruchibi.webp",
+    "text": "Chibi: \"Sometimes you’ll see them in live tanks. But in my experience, they’re rare. Not the most appealing fish to most people. I like them, though.\""
+  },
+  {
+    "image": "you_fish_goby.webp",
+    "text": "You: \"Oh! Another bite!\""
+  },
+  {
+    "image": "you_fish_goby.webp",
+    "text": "Chibi: \"Well well! Not bad at all! What did you get this time?\""
+  },
+  {
+    "image": "you_fish_goby.webp",
+    "text": "You: \"Is this a whiting?!\""
+  },
+  {
+    "image": "whiting.webp",
+    "text": "Chibi: \"Yep! It’s also known as the 'Queen of the Shore'!\""
+  },
+  {
+    "image": "whiting.webp",
+    "text": "You: \"That's so cool...\""
+  },
+  {
+    "image": "whiting.webp",
+    "text": "Chibi: \"Nice catch! That’s plenty already. And good size, too!\""
+  },
+  {
+    "image": "pachinko.webp",
+    "text": "You: \"Way healthier than pachinko. Cheaper, safer. This is a great hobby.\""
+  },
+  {
+    "image": "pachinko.webp",
+    "text": "Chibi: \"Yeah. Of course pachinko has its fun too, but if you wanna quit gambling, maybe try fishing instead?\""
+  },
+  {
+    "image": "squid_old_man1.webp",
+    "text": "Chibi: \"I know this guy—'Squid Geezer'—he's basically a squid-fishing monster. When the season hits, he’ll fish for hours and line up the catch neatly in his fridge.\""
+  },
+  {
+    "image": "squid_old_man1.webp",
+    "text": "Chibi: \"It’s like he’s honoring the dead. Total yokai. But he’s not hurting anyone, it’s free, and it builds skill. Solid hobby, really.\""
+  },
+  {
+    "image": "squid_old_man1.webp",
+    "text": "Chibi: \"That said, if you enjoy pachinko in moderation, that’s fine too. GARO is badass.\""
+  },
+  {
+    "image": "squid_old_man1.webp",
+    "text": "You: \"Wait… Have you actually played pachinko...?\""
+  },
+  {
+    "image": "chibibana_angry_a_bit.webp",
+    "text": "Chibi: \"Of course not! I'm underage!\""
+  },
+  {
+    "image": "chibibana_angry_a_bit.webp",
+    "text": "You: \"Then how do you know so much about it?!\""
+  },
+  {
+    "image": "yattyaare.webp",
+    "text": "Chibi: \"Anyway, good job! Let’s keep going ‘til we catch just the right amount!\""
+  },
+  {
+    "image": "otsu_face_compressed.webp",
+    "text": "You: \"Huh… but senpai…? You haven’t caught anything… have you?\""
+  },
+  {
+    "image": "nannyanen.webp",
+    "text": "Chibi: \"Wow. You’re really going there? Taking the chance to flex when you can? So lame.\""
+  },
+  {
+    "image": "bakanisiteiru.webp",
+    "text": "You: \"Wait—after acting all high and mighty?! Dropping all that fishing knowledge?! You haven’t caught a single fish?! Isn’t that kinda messed up?!\""
+  },
+  {
+    "image": "nannyanen.webp",
+    "text": "Chibi: \"Oh you little—! Acting all smug now, huh?! Alright then! It’s a battle! But not by number—we’ll settle this by total weight! And if I win, I’m throwing you into the ocean as fish food!\""
+  },
+  {
+    "image": "nannyanen.webp",
+    "text": "You: \"No way I’m agreeing to that bet! That’s terrifying!\""
+  },
+  {
+    "image": "fished1.webp",
+    "text": "A few minutes later..."
+  },
+  {
+    "image": "chibi_loose.webp",
+    "text": "Chibi: \"Nothing's biting!\""
+  },
+  {
+    "image": "youwin.webp",
+    "text": "You: \"I caught one!\""
+  },
+  {
+    "image": "angry_to_god.webp",
+    "text": "Chibi: \"What is this beginner’s luck?! What did I even do wrong?! Hey! God! Come out here! Let’s duel!\""
+  },
+  {
+    "image": "angry_to_god.webp",
+    "text": "You: \"Stop! That’s not just blasphemy, that’s straight-up dangerous talk!\""
+  },
+  {
+    "image": "lookingdown.webp",
+    "text": "You: \"Man, I gotta say...\""
+  },
+  {
+    "image": "lookingdown.webp",
+    "text": "Chibi: \"What’s with that look?\""
+  },
+  {
+    "image": "smug.webp",
+    "text": "You: \"Guess knowledge alone doesn’t cut it, huh... It's only real if it’s backed by skill.\""
+  },
+  {
+    "image": "izakaya.webp",
+    "text": "You: \"Just like those old dudes in izakayas criticizing pro baseball players’ form...\""
+  },
+  {
+    "image": "izakaya.webp",
+    "text": "Old Guy: \"Yeah, with a form like that, this year’s a bust again! Needs more hip rotation, like this—\""
+  },
+  {
+    "image": "lookingdown.webp",
+    "text": "You: \"Like, come on man, you try doing it yourself.\""
+  },
+  {
+    "image": "smug.webp",
+    "text": "You: \"That’s exactly how I feel right now.\""
+  },
+  {
+    "image": "angrygirl.webp",
+    "text": "Chibi: \"Gaaaaaaah!! I’ll sink you! Right now! Straight to hell with the gods!\""
+  },
+  {
+    "image": "angrygirl.webp",
+    "text": "You: \"I’m against violence! Calm down! Also, watch your language!\""
+  },
+  {
+    "image": "angry3.webp",
+    "text": "Chibi: \"Damn it… At this rate I just look like a complete fool… Wait a sec…\""
+  },
+  {
+    "image": "chibi_happy.webp",
+    "text": "Chibi: \"This one's huge!!\""
+  },
+  {
+    "image": "chibi_happy.webp",
+    "text": "You: \"What kind of plot twist is this?!\""
+  },
+  {
+    "image": "35508da8-6914-4ac7-a9e8-23110aeae100.webp",
+    "text": "Chibi: \"This might not even be a sea bass... My rod can't handle it!\""
+  },
+  {
+    "image": "35508da8-6914-4ac7-a9e8-23110aeae100.webp",
+    "text": "You: \"It’s that big?!\""
+  },
+  {
+    "image": "35508da8-6914-4ac7-a9e8-23110aeae100.webp",
+    "text": "Chibi: \"Yeah… This is bad… But I have to remember Santiago…\""
+  },
+  {
+    "image": "a0dc3b1d-3d48-42ba-b39a-600783a9db16.webp",
+    "text": "Chibi: \"You! Get the net! (like a bug-catching net)\""
+  },
+  {
+    "image": "a0dc3b1d-3d48-42ba-b39a-600783a9db16.webp",
+    "text": "You: \"Got it! I’ve got the net! What now?!\""
+  },
+  {
+    "image": "a0dc3b1d-3d48-42ba-b39a-600783a9db16.webp",
+    "text": "Chibi: \"I’ll bring it in close! Wait for my signal! Then use the net! It’s a foldable net—don't pull it out! Fold it first!\""
+  },
+  {
+    "image": "35508da8-6914-4ac7-a9e8-23110aeae100.webp",
+    "text": "You: \"Understood!\""
+  },
+  {
+    "image": "35508da8-6914-4ac7-a9e8-23110aeae100.webp",
+    "text": "Chibi: \"Alright! It’s close! Extend the net!\""
+  },
+  {
+    "image": "35508da8-6914-4ac7-a9e8-23110aeae100.webp",
+    "text": "You: \"Okay! ...Wait, what?!\""
+  },
+  {
+    "image": "eccb3853-f671-4e79-9816-37ef022865fb.webp",
+    "text": "Chibi: \"No way! It’s a swordfish! Why is this here?!\""
+  },
+  {
+    "image": "eccb3853-f671-4e79-9816-37ef022865fb.webp",
+    "text": "You: \"This thing’s heavy as hell! I can’t fold the net!\""
+  },
+  {
+    "image": "eccb3853-f671-4e79-9816-37ef022865fb.webp",
+    "text": "Chibi: \"Damn it! Then there’s only one option!\""
+  },
+  {
+    "image": "chibi_fished_a_swordfish.webp",
+    "text": "Chibi: \"HURRRAAAHHHH!!\""
+  },
+  {
+    "image": "chibi_fished_a_swordfish.webp",
+    "text": "You: \"Whaaaaat?!\""
+  },
+  {
+    "image": "chibi_fished_a_swordfish.webp",
+    "text": "Chibi: \"I did it! My first swordfish!\""
+  },
+  {
+    "image": "chibi_fished_a_swordfish.webp",
+    "text": "You: \"That’s insane… Why was that even here…?\""
+  },
+  {
+    "image": "b7e1970a-babd-4237-8ab4-18c0d26a798b.webp",
+    "text": "Chibi: \"No idea… But it's super heavy… Is this what it feels like? Santiago caught an even bigger one… I still have a long way to go...\""
+  },
+  {
+    "image": "b7e1970a-babd-4237-8ab4-18c0d26a798b.webp",
+    "text": "You: \"No, this is amazing already! And we didn’t even need the net after all!\""
+  },
+  {
+    "image": "b7e1970a-babd-4237-8ab4-18c0d26a798b.webp",
+    "text": "Chibi: \"True… But this puts me over your total weight. I win.\""
+  },
+  {
+    "image": "b7e1970a-babd-4237-8ab4-18c0d26a798b.webp",
+    "text": "You: \"...You’re right.\""
+  },
+  {
+    "image": "firepose_compressed.webp",
+    "text": "Chibi: \"That means, legally, I can now sink you into the sea…\""
+  },
+  {
+    "image": "firepose_compressed.webp",
+    "text": "You: \"That’s not how the law works! Please stop! Mercy!\""
+  },
+  {
+    "image": "1f4f93a0-2722-4620-b7ad-1188c59815c0.webp",
+    "text": "Chibi: \"...Fine. I’m in a good mood. But as punishment for disrespecting me—you’re helping clean up.\""
+  },
+  {
+    "image": "1f4f93a0-2722-4620-b7ad-1188c59815c0.webp",
+    "text": "You: \"That's it? That’s all I gotta do?\""
+  },
+  {
+    "image": "1f4f93a0-2722-4620-b7ad-1188c59815c0.webp",
+    "text": "Chibi: \"Of course! It's best to end fun times on a high note. Now get moving. And rinse any dirty spots with that bucket.\""
+  },
+  {
+    "image": "morning.webp",
+    "text": "Chibi: \"Alright! Let’s head back!\""
+  },
+  {
+    "image": "23b97add-0f3e-45dd-81db-7fc6203ed9ce.webp",
+    "text": "You: \"Carry it?\""
+  },
+  {
+    "image": "23b97add-0f3e-45dd-81db-7fc6203ed9ce.webp",
+    "text": "Chibi: \"Of course! Carry it! You did gut them, right?!\""
+  },
+  {
+    "image": "23b97add-0f3e-45dd-81db-7fc6203ed9ce.webp",
+    "text": "You: \"By the way… who’s gonna clean the fish?\""
+  },
+  {
+    "image": "23b97add-0f3e-45dd-81db-7fc6203ed9ce.webp",
+    "text": "Chibi: \"My sister’ll handle it. Though… I’m not sure she can deal with a swordfish…\""
+  },
+  {
+    "image": "2a3a832d-7834-4fd5-b736-2b91f612dd18.webp",
+    "text": "You: \"True… I don’t think even YouTube has tutorials on filleting one of those…\""
+  },
+  {
+    "image": "2a3a832d-7834-4fd5-b736-2b91f612dd18.webp",
+    "text": "Chibi: \"Found one.\""
+  },
+
+  {
+    "image": "2a3a832d-7834-4fd5-b736-2b91f612dd18.webp",
+    "text": "You: \"There are videos?!\""
+  },
+  {
+    "image": "2a3a832d-7834-4fd5-b736-2b91f612dd18.webp",
+    "text": "Chibi: \"Tons of them.\""
+  },
+  {
+    "image": "2a3a832d-7834-4fd5-b736-2b91f612dd18.webp",
+    "text": "You: \"You're right… This is super helpful!\""
+  },
+  {
+    "image": "2a3a832d-7834-4fd5-b736-2b91f612dd18.webp",
+    "text": "Chibi: \"Alright! With this, my sister can totally handle it!\""
+  },
+  {
+    "image": "chibi_shows_tachibana.webp",
+    "text": "Chibi: \"We're home!\""
+  },
+  {
+    "image": "chibi_shows_tachibana.webp",
+    "text": "Tachibana: \"Welcome back! Whoa—what is this?!\""
+  },
+  {
+    "image": "chibi_shows_tachibana.webp",
+    "text": "Chibi: \"Amazing, right?! It’s a swordfish! A small one, but I reeled it in myself!\""
+  },
+  {
+    "image": "chibi_catch_.webp",
+    "text": "Tachibana: \"How do you even catch one of these?! Trolling? From a boat?\""
+  },
+  {
+    "image": "chibi_catch_.webp",
+    "text": "Chibi Bana: \"Nope! Off the breakwater! With worms!\""
+  },
+  {
+    "image": "chibi_catch_.webp",
+    "text": "Tachibana: \"That’s even possible?!\""
+  },
+  {
+    "image": "chibi_telling_happily.webp",
+    "text": "Chibi Bana: \"I know, right? Praise me, praise me!\""
+  },
+  {
+    "image": "chibi_telling_happily.webp",
+    "text": "Tachibana: \"Wow, amazing! So proud of you!\""
+  },
+  {
+    "image": "chibi_telling_happily.webp",
+    "text": "Chibi: \"And the goby and whiting? This guy caught them! Pretty good instincts, actually!\""
+  },
+  {
+    "image": "chibi_telling_happily.webp",
+    "text": "Chibi: \"You didn’t lose a single one, right?! That’s secretly super impressive.\""
+  },
+  {
+    "image": "chibi_telling_happily.webp",
+    "text": "You: (Is this heaven...? Maybe I did something good in my past life...)"
+  },
+  {
+    "image": "tachibanahastle.webp",
+    "text": "Tachibana: \"Awesome! Then today we’re having swordfish fried rice! And whiting fried rice! Goby fried rice!\""
+  },
+  {
+    "image": "tachibanahastle.webp",
+    "text": "You: \"Can’t we do a different dish for once?! Just for today?!\""
+  },
+  {
+    "image": "tachibanahastle.webp",
+    "text": "Tachibana: \"Hmm, true… Let’s make tempura with the goby and whiting… but how do we even fillet a swordfish…?\""
+  },
+  {
+    "image": "yamadasann.webp",
+    "text": "Chibi: \"What about Mr. Yamamoto with almost no teeth? He might be able to!\""
+  },
+  {
+    "image": "yamadasann.webp",
+    "text": "Tachibana: \"He hurt his back recently… No way he can handle a swordfish now. But I’ll bring him a share later.\""
+  },
+  {
+    "image": "compressed_fumufumu_scene.webp",
+    "text": "You: \"By the way, I found a video.\""
+  },
+  {
+    "image": "compressed_interaction_scene.webp",
+    "text": "Tachibana: \"Let me see… Huh, looks doable. Super clear instructions.\""
+  },
+  {
+    "image": "compressed_interaction_scene.webp",
+    "text": "Tachibana: \"Alright! Leave it to me!\""
+  },
+  {
+    "image": "cf5fe348-c4ab-4586-af6c-856553a8510e-thumbnail.webp",
+    "text": "Tachibana: \"Let’s do this!\""
+  },
+  {
+    "image": "cf5fe348-c4ab-4586-af6c-856553a8510e-thumbnail.webp",
+    "text": "You: \"That’s how you hold a knife?!\""
+  },
+  {
+    "image": "cf5fe348-c4ab-4586-af6c-856553a8510e-thumbnail.webp",
+    "text": "Tachibana: \"Of course. I can’t put power into it otherwise...\""
+  },
+  {
+    "image": "cf5fe348-c4ab-4586-af6c-856553a8510e-thumbnail.webp",
+    "text": "You: \"Huh… Actually, that kind of makes sense.\""
+  },
+  {
+    "image": "cf5fe348-c4ab-4586-af6c-856553a8510e-thumbnail.webp",
+    "text": "Tachibana: \"You two must be tired. I’ll cook, so just relax.\""
+  },
+  {
+    "image": "compressed_chahan_9.webp",
+    "text": "Tachibana: \"It’s done!\""
+  },
+  {
+    "image": "compressed_chahan_9.webp",
+    "text": "You: \"It’s fried rice again?!\""
+  },
+  {
+    "image": "compressed_chahan_9.webp",
+    "text": "Tachibana: \"This one’s different! Even goes well with sashimi!\""
+  },
+  {
+    "image": "messi.webp",
+    "text": "Chibi: \"As expected of big sis! And you even cleaned the swordfish perfectly… Just from the video?!\""
+  },
+  {
+    "image": "messi.webp",
+    "text": "Tachibana: \"Yep! It was super clear. When the textbook’s good, the answers come easy—it really makes you realize that.\""
+  },
+  {
+    "image": "compressed_image.webp",
+    "text": "Tachibana: \"I tempura-fried the goby and whiting you caught too… Perfect size! And no swallowed hooks either. You've got talent!\""
+  },
+  {
+    "image": "compressed_image.webp",
+    "text": "Chibi: \"Nice one! Honestly, it’s common to catch nothing your first time. You nailed it!\""
+  },
+  {
+    "image": "compressed_image.webp",
+    "text": "You: \"Ugh…\""
+  },
+  {
+    "image": "compressed_image.webp",
+    "text": "You: (Maybe I really died once… Saved a cat or something in my past life and earned some karma… Maybe that’s why I’m in heaven now...)"
+  },
+  {
+    "image": "compressed_image.webp",
+    "text": "Chibi: \"Why do you look like you’re about to cry? You’ve got this delicious meal right in front of you, what’s there to cry about?\""
+  },
+  {
+    "image": "compressed_face_image.webp",
+    "text": "Tachibana: \"...Did you really hate fried rice that much…? But in the Triple Fried Rice Faith, missing your daily fried rice comes with a death penalty… So… don’t cry…\""
+  },
+  {
+    "image": "compressed_face_image.webp",
+    "text": "You: \"It’s not that! And wait—there’s a penalty like that?! That cult needs a rework!\""
+  },
+  {
+    "image": "compressed_output1.webp",
+    "text": "Chibi: \"When you feel like crying, eat something warm, take a bath, and rest. That means your heart’s tired. It’s also probably the melatonin.\""
+  },
+  {
+    "image": "compressed_output1.webp",
+    "text": "Tachibana: \"If you're crying, that means your body’s working. If you can cry, you can feel joy. And if you can feel joy, you can find happiness. You’re built for happiness, too.\""
+  },
+  {
+    "image": "sisites_eat1.webp",
+    "text": "Chibi: \"Big sis really knows how to say the right stuff!\""
+  },
+  {
+    "image": "sisites_eat1.webp",
+    "text": "You: \"Thank you… really… both of you…\""
+  },
+  {
+    "image": "sisites_eat1.webp",
+    "text": "Chibi: \"Though if you flip that around, it means I *can* absolutely destroy you when I’m mad. So watch your mouth next time. If you flex again, be ready for consequences.\""
+  },
+  {
+    "image": "sisites_eat1.webp",
+    "text": "You: \"...Way to ruin the moment… but okay…\""
+  },
+  {
+    "image": "compressed_image1.webp",
+    "text": "Tachibana: \"Alright everyone! Dig in! You two caught these fish, after all!\""
+  }
 ]
+
 
