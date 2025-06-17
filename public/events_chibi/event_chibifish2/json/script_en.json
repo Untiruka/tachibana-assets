@@ -68,7 +68,7 @@
         "text": "Chibi Bana: \"Exactly. Respect nature. Don't take it lightly. If you do, you'll come back alive. Better to be prepared than to pray, right? Lady Luck won't save you, but a life jacket will.\""
     },
     {
-        "image": null,
+        "image": "snowpier.webp",
         "text": "A few minutes later..."
     },
     {
@@ -120,7 +120,8 @@
         "text": "Chibi Bana: \"Well, at least at first we want to catch something. So just be quiet and attach the bait.\""
     },
     {
-        "image": null,
+      
+        "image": "youhavewater.webp",
         "text": "A few minutes later..."
     },
     {
@@ -188,7 +189,7 @@
         "text": "You: \"What's brackish water?\""
     },
     {
-        "image": null,
+       "image": "whiting.webp",
         "text": "Chibi Bana: \"Fresh water is around 0\u20130.5\u2030 (rivers, lakes, etc.). Brackish water is 0.5\u201317\u2030 (estuaries, tidal flats, bays where fresh and salt water mix). Sea water is about 35\u2030 (normal ocean). Above 40\u2030 is like the Dead Sea or other enclosed salt lakes. Basically, gobies like lightly salty water.\""
     },
     {
