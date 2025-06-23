@@ -22,7 +22,7 @@
   {"image": "chibibana_nuetral.webp", "text": "ちびバナ「まあとにかくやってみようかしら」"},
 
 {
-  "type": "ad_native_image",
+  "image":"white_background.webp",
   "style": "native_advance",
   "adUnitId": "ca-app-pub-3940256099942544/2247696110",
   "text": "…"
