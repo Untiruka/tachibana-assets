@@ -3,21 +3,21 @@
     "id": "event_chibifish",
     "title_ja": "ちび花はカジキマグロを釣りたい1",
     "title_en": "Chibi-Bana goes fishing",
-      "image": "chibana_amdfish.webp"  
+      "image": "day10_22.webp"  
 
   },
 
   {
     "id": "event_chibifish1",
     "title_ja": "ちび花はカジキマグロを釣りたい２",
-    "title_en": "Chibi-Bana goes fishing",
+    "title_en": "Chibi-Bana goes fishing2",
       "image": "chibana_amdfish.webp"  
 
   },
     {
     "id": "event_chibifish2",
     "title_ja": "ちび花はカジキマグロを釣りたい３",
-    "title_en": "Chibi-Bana goes fishing",
+    "title_en": "Chibi-Bana goes fishing3",
     "image": "chibibana_and_filefish.webp"
   },
 
