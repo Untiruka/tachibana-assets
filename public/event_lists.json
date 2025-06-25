@@ -3,7 +3,9 @@
     "id": "event_chibifish",
     "title_ja": "ちび花はカジキマグロを釣りたい1",
     "title_en": "Chibi-Bana goes fishing",
-      "image": "day10_22.webp"  
+      "image": "day10_22.webp",
+       "category_ja": "ちび花",
+    "category_en": "Chibi Hana"
 
   },
 
@@ -11,20 +13,26 @@
     "id": "event_chibifish1",
     "title_ja": "ちび花はカジキマグロを釣りたい２",
     "title_en": "Chibi-Bana goes fishing2",
-      "image": "chibana_amdfish.webp"  
+      "image": "chibana_amdfish.webp",
+       "category_ja": "ちび花",
+    "category_en": "Chibi Hana"
 
   },
     {
     "id": "event_chibifish2",
     "title_ja": "ちび花はカジキマグロを釣りたい３",
     "title_en": "Chibi-Bana goes fishing3",
-    "image": "chibibana_and_filefish.webp"
+    "image": "chibibana_and_filefish.webp",
+     "category_ja": "ちび花",
+    "category_en": "Chibi Hana"
   },
 
   {
     "id": "tachibana_wanna_tobe_stronger1",
     "title_ja": "たちばなはつよくなりたい１",
     "title_en": "Tachibana's Determination",
-    "image": "tatibana_determination.webp"
+    "image": "tatibana_determination.webp",
+    "category_ja": "たちばな",
+    "category_en": "Tachibana"
   }
 ]
