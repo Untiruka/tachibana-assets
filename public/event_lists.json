@@ -30,8 +30,17 @@
   {
     "id": "tachibana_wanna_tobe_stronger1",
     "title_ja": "たちばなはつよくなりたい１",
-    "title_en": "Tachibana's Determination",
+    "title_en": "Tachibana's Determination1",
     "image": "tatibana_determination.webp",
+    "category_ja": "たちばな",
+    "category_en": "Tachibana"
+  },
+
+  {
+    "id": "tachibana_wanna_tobe_stronger2",
+    "title_ja": "たちばなはつよくなりたい2",
+    "title_en": "Tachibana's Determination2",
+    "image": "samune.webp",
     "category_ja": "たちばな",
     "category_en": "Tachibana"
   }
