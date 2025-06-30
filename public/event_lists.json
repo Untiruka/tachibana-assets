@@ -5,8 +5,8 @@
     "title_en": "Chibi-Bana goes fishing",
       "image": "day10_22.webp",
        "category_ja": "ちび花",
-    "category_en": "Chibi Hana"
-
+    "category_en": "Chibi Hana",
+"number": "1"
   },
 
   {
@@ -15,7 +15,8 @@
     "title_en": "Chibi-Bana goes fishing2",
       "image": "chibana_amdfish.webp",
        "category_ja": "ちび花",
-    "category_en": "Chibi Hana"
+    "category_en": "Chibi Hana",
+    "number": "2"
 
   },
     {
@@ -24,7 +25,8 @@
     "title_en": "Chibi-Bana goes fishing3",
     "image": "chibi_telling_happily.webp",
      "category_ja": "ちび花",
-    "category_en": "Chibi Hana"
+    "category_en": "Chibi Hana",
+    "number": "3"
   },
 
   {
@@ -33,7 +35,8 @@
     "title_en": "Tachibana's Determination1",
     "image": "tatibana_determination.webp",
     "category_ja": "たちばな",
-    "category_en": "Tachibana"
+    "category_en": "Tachibana",
+    "number": "4"
   },
 
   {
@@ -42,6 +45,7 @@
     "title_en": "Tachibana's Determination2",
     "image": "samune.webp",
     "category_ja": "たちばな",
-    "category_en": "Tachibana"
+    "category_en": "Tachibana",
+    "number": "5"
   }
 ]
