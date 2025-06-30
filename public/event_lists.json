@@ -4,8 +4,8 @@
     "title_ja": "ちび花はカジキマグロを釣りたい1",
     "title_en": "Chibi-Bana goes fishing",
       "image": "day10_22.webp",
-       "category_ja": "ちび花",
-    "category_en": "Chibi Hana",
+       "category_ja": "イベント",
+    "category_en": "Events",
 "number": "1"
   },
 
@@ -14,8 +14,8 @@
     "title_ja": "ちび花はカジキマグロを釣りたい２",
     "title_en": "Chibi-Bana goes fishing2",
       "image": "chibana_amdfish.webp",
-       "category_ja": "ちび花",
-    "category_en": "Chibi Hana",
+       "category_ja": "イベント",
+    "category_en": "Events",
     "number": "2"
 
   },
@@ -24,8 +24,8 @@
     "title_ja": "ちび花はカジキマグロを釣りたい３",
     "title_en": "Chibi-Bana goes fishing3",
     "image": "chibi_telling_happily.webp",
-     "category_ja": "ちび花",
-    "category_en": "Chibi Hana",
+     "category_ja": "イベント",
+    "category_en": "Events",
     "number": "3"
   },
 
@@ -34,8 +34,8 @@
     "title_ja": "たちばなはつよくなりたい１",
     "title_en": "Tachibana's Determination1",
     "image": "tatibana_determination.webp",
-    "category_ja": "たちばな",
-    "category_en": "Tachibana",
+    "category_ja": "イベント",
+    "category_en": "Events",
     "number": "4"
   },
 
@@ -44,8 +44,8 @@
     "title_ja": "たちばなはつよくなりたい2",
     "title_en": "Tachibana's Determination2",
     "image": "samune.webp",
-    "category_ja": "たちばな",
-    "category_en": "Tachibana",
+    "category_ja": "イベント",
+    "category_en": "Events",
     "number": "5"
   }
 ]
