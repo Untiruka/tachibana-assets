@@ -47,5 +47,14 @@
     "category_ja": "イベント",
     "category_en": "Events",
     "number": "5"
+  },
+   {
+    "id": "tachibana_vote",
+    "title_ja": "たちばなは選挙の練習をしたい",
+    "title_en": "Tachibana wants to practice for the election. ",
+    "image": "samune.webp",
+    "category_ja": "短編",
+    "category_en": "Short",
+    "number": "1"
   }
 ]
