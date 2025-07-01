@@ -1,0 +1,46 @@
+Idやらディレクトリ構造のルール
+
+考え方
+💡 例えば「short_unko」を追加したい場合
+📁 構造
+arduino
+Copy
+Edit
+public/
+└── short/
+    └── short_unko/
+        ├── json/
+        │   └── script_ja.json
+        ├── image/
+        │   └── xxx.webp
+        └── bgm/
+            └── xxx.mp3
+💡 eventId
+nginx
+Copy
+Edit
+short_unko
+💡 コード側条件
+kotlin
+Copy
+Edit
+eventId.startsWith("short") ->
+    "https://cdn.jsdelivr.net/gh/Untiruka/tachibana-assets@main/public/short/$eventId"
+✅ これで何が起きるか
+eventId = "short_unko"
+
+→ startsWith("short") にヒット
+
+→ basePath = .../public/short/short_unko
+
+
+prefix一覧
+
+eventId.startsWith("tachibana") ->
+            "https://cdn.jsdelivr.net/gh/Untiruka/tachibana-assets@main/public/tachibana/$eventId"
+
+        eventId.startsWith("extra") ->
+            "https://cdn.jsdelivr.net/gh/Untiruka/tachibana-assets@main/public/extra/$eventId"
+
+        eventId.startsWith("short") ->
+            "https://cdn.jsdelivr.net/gh/Untiruka/tachibana-assets@main/public/short/$eventId"

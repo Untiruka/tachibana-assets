@@ -1,13 +1,20 @@
 [
   {"image": "en0.webp"},
   {"image": "en1.webp"},
-  {"image": "en2.webp"},
+  {"image": "en2.1.webp"},
+  {"image": "en2.2.webp"},
   {"image": "en3.webp"},
   {"image": "en4.webp"},
-  {"image": "en5.webp"},
+  {"image": "en5.1.webp"},
+ {"image": "en5.2.webp"},
+
   {"image": "en6.webp"},
   {"image": "en7.webp"},
-  {"image": "en8.webp"},
+  {"image": "en8.1.webp"},
+    {"image": "en8.2.webp"},
+
   {"image": "en9.webp"},
-  {"image": "en10.webp"}
+  {"image": "en10.1.webp"},
+    {"image": "en10.2.webp"}
+
 ]
