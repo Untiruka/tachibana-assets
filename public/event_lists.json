@@ -48,6 +48,15 @@
     "category_en": "Events",
     "number": "5"
   },
+    {
+    "id": "tachibana_wanna_tobe_stronger3",
+    "title_ja": "たちばなはつよくなりたい3",
+    "title_en": "Tachibana's Determination3",
+    "image": "0.webp",
+    "category_ja": "イベント",
+    "category_en": "Events",
+    "number": "6"
+  },
    {
     "id": "tachibana_vote",
     "title_ja": "たちばなは選挙の公約の練習をしたい",
