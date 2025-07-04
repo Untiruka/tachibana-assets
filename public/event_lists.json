@@ -57,6 +57,15 @@
     "category_en": "Events",
     "number": "6"
   },
+    {
+    "id": "tachibana_wanna_tobe_stronger4",
+    "title_ja": "たちばなはつよくなりたい4",
+    "title_en": "Tachibana's Determination4",
+    "image": "family_gorila.webp",
+    "category_ja": "イベント",
+    "category_en": "Events",
+    "number": "7"
+  },
    {
     "id": "tachibana_vote",
     "title_ja": "たちばなは選挙の公約の練習をしたい",
