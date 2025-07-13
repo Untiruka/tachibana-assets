@@ -117,8 +117,11 @@
   {"image": "chibi_throwing.webp", "text": "あなた「やっぱおかしいよお前。」"},
   {"image": "chibi_throwing.webp", "text": "たちばな「しかもめっちゃ早かったね。」"},
   {"image": "chibi_throwing.webp", "text": "あなた「ああ、完全な遠距離砲だな。」"},
-  {"image": "chibi_throwingface.webp", "text": "あなた「あと顔おかしくない？」"},
+  {"image": "chibi_throwingface.webp", "text": "あなた「あとなんか顔おかしくない？」"},
   {"image": "chibi_throwingface.webp", "text": "ちび「まあこんなもんよ。人がハンドボール投げるときって。」"},
+    {"image": "chibi_throwingface.webp", "text": "あなた「まあ確かに」"},
+    {"image": "chibi_throwingface.webp", "text": "あなた「そんなもんか」"},
+
   {"image": "chibi_throwingface.webp", "text": "ちび「ふー、にしても思ったより飛ばなかったわね」"},
   {"image": "chibi_ridding.webp", "text": "あなた「お前戦国時代とかにいても余裕で戦功挙げられまくりそうだよな。打ってはよし。投げてはよし」"},
   {"image": "chibi_ridding.webp", "text": "ちび「何よそれ…そんなの言ったら大谷翔平とかもすごいと思うわよ。」"},
