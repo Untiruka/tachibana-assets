@@ -55,7 +55,6 @@
   {"image": "nothingggg.webp", "text": "You: Yeah, yeah, exactly! That’s it!"},
   {"image": "tachibana_happy.webp", "text": "Tachibana: I see! I’m getting a little stronger every day!"},
   {"image": "nothingggg.webp", "text": "You: Yeah, that’s right!"},
-  {"image": null, "text": "Interstitial Ad", "type": "interstitial", "adUnitId": "ca-app-pub-3940256099942544/1033173712"},
    {"image": "teiann.webp", "text": "Tachibana: Next is sit-ups, but I want to save that for last! So let’s skip it for now!"},
   {"image": "teiann.webp", "text": "Tachibana: The sit-and-reach might increase the risk of injury, so let’s do it after the workout."},
   {"image": "tachibana7.webp", "text": "Tachibana: So, that means it’s side-to-side steps next!"},
@@ -131,5 +130,7 @@
 {"image": "throwing2.webp", "text": "Tachibana: Fujinami! (Shintaro Fujinami is a Japanese pitcher who played in NPB and MLB. He's notorious for throwing 160 km/h fastballs that sail straight at right-handed batters' heads—he's a true legend for his deadly wild pitches!)"},
   {"image": "throwing2.webp", "text": "You: That’s a bit rude, don’t you think?!"},
   {"image": "throwing.webp", "text": "Chibi: Well, he *has* racked up a lot of achievements on the battlefield."},
-  {"image": "throwing.webp", "text": "You: Stop calling hit-by-pitches 'achievements'! Baseball isn’t that kind of sport!"}
+  {"image": "throwing.webp", "text": "You: Stop calling hit-by-pitches 'achievements'! Baseball isn’t that kind of sport!"},
+    {"image": null, "text": "", "type": "native", "adUnitId": "ca-app-pub-8069319460842938/5295523236"}
+
 ]

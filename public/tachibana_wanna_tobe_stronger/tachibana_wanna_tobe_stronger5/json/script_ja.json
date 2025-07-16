@@ -11,7 +11,7 @@
   {"image": "you_cruel.webp", "text": "あなた「何をお前如きが。」"},
   {"image": "chibi_cruel.webp", "text": "ちびバナ「そうよお姉ちゃん。悪いけどお姉ちゃんの場合、世界最低記録と比べたほうがいいわよ。」"},
   {"image": "tachibana_cry.webp", "text": "たちばな「やる前から総攻撃を受けてる…私が何をしたっていうの…」"},
-  {"type": "interstitial", "adUnitId": "ca-app-pub-3940256099942544/1033173712"},
+  {"type": "interstitial", "adUnitId": "ca-app-pub-8069319460842938/9885504936"},
 
   {"image": "1000019365.webp", "text": "たちばな「よし！私から行くぞ！」"},
   {"image": "tachibana_jumping.webp", "text": "たちばな「とう！」"},
@@ -30,7 +30,9 @@
   {"image": "1000019365.webp", "text": "あなた「よし！次はちびちゃんだよ！」"},
   {"image": "1000019365.webp", "text": "あなた「本人は割と前向きなんだよなー…」"},
   {"image": "1000019365.webp", "text": "ちび「そうね…明るい性格で良かったわ…」"},
-{"type": "interstitial", "adUnitId": "ca-app-pub-3940256099942544/1033173712"},
+
+{"type": "interstitial", "adUnitId": "ca-app-pub-8069319460842938/9885504936"},
+
   {"image": "chibi_ready.webp", "text": "ちび「私の番ね!"},
   {"image": "chibi_jumping1.webp", "text": "ちび「とうっ！」"},
   {"image": "chibi_jumping1.webp", "text": "あなた「えー？！」"},
@@ -53,7 +55,7 @@
   {"image": "tachibana_week.webp", "text": "たちばな50cm"},
   {"image": "tachibana_week.webp", "text": "あなた230cm"},
   {"image": "tachibana_week.webp", "text": "ちび330cm"},
-{"type": "interstitial", "adUnitId": "ca-app-pub-3940256099942544/1033173712"},
+{"type": "NATIVE", "adUnitId": "ca-app-pub-8069319460842938/9885504936"},
   
   {"image": "you_chibi_lineup.webp", "text": "ちび「最後は…腹筋ね…」"},
   {"image": "you_chibi_lineup.webp", "text": "あなた「ああ…」"},
@@ -107,6 +109,6 @@
   {"image": "sideview.webp", "text": "たちばな「今までありがとう…本当に。天国から…見守ってててね」"},
   {"image": "youwatchingoveryou_from_the_sky.webp", "text": "たちばな「私達のこと。」"},
   {"image": "youwatchingoveryou_from_the_sky.webp", "text": "あなた「いやまだ死んでねーよ！」"},
-  {"type": "interstitial", "adUnitId": "ca-app-pub-3940256099942544/1033173712"}
+  {"type": "interstitial", "adUnitId": "ca-app-pub-8069319460842938/9885504936"}
 
 ]
