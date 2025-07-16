@@ -55,7 +55,7 @@
   {"image": "nothingggg.webp", "text": "あなた「そうそうそうそうそうそうそそうそうそうそう！」"},
   {"image": "tachibana_happy.webp", "text": "たちばな「そうなんだ！ちょっとずつ成長してるもんね！私」"},
   {"image": "nothingggg.webp", "text": "あなた「そうそうそうだな！」"},
-  {"image": null, "text": "インタースティシャル広告", "type": "interstitial", "adUnitId": "ca-app-pub-3940256099942544/1033173712"},
+  {"image": null, "text": "", "type": "interstitial", "adUnitId": "ca-app-pub-3940256099942544/1033173712"},
 
   {"image": "teiann.webp", "text": "たちばな「次は上体起こしだけど最後にしたい！だから飛ばして！"},
   {"image": "teiann.webp", "text": "たちばな「長座体前屈は、怪我のリスクが上がるかも知れないので、運動後にやろう。」"},
@@ -87,7 +87,7 @@
   {"image": "youandchibibana.webp", "text": "ちび「オーやるじゃないあなた！ちゃんと手加減できたのね。」"},
   {"image": "youandchibibana.webp", "text": "ちび「お姉ちゃんにちょっとバカにされてたわよ。」"},
   {"image": "youandchibibana.webp", "text": "あなた「そうだな。あいつのためにやってるのに。伝わらないもんだな。」"},
-  {"image": null, "text": "ネイティブ広告", "type": "native", "adUnitId": "ca-app-pub-3940256099942544/2247696110"},
+  {"image": null, "text": "", "type": "native", "adUnitId": "ca-app-pub-8069319460842938/5295523236"},
   {"image": "tachibana6.webp", "text": "たちばな「次はハンドボール投げやろう！」"},
   {"image": "tachibana6.webp", "text": "ちび「次はハンドボールね。投げたことないかも。」"},
   {"image": "1000008877.webp", "text": "あなた「あー多分小学生ってソフトボール投げだよな？」"},
@@ -135,6 +135,6 @@
   {"image": "throwing2.webp", "text": "あなた「お前めちゃめちゃ失礼だぞ！」"},
   {"image": "throwing.webp", "text": "ちび「まあ確かにもう既に武勲は結構上げてるもんね。」"},
   {"image": "throwing.webp", "text": "あなた「デッドボールの事を武勲って言うな。野球はそうゆうスポーツじゃねーから。」"},
-   {"image": null, "text": "インタースティシャル広告", "type": "interstitial", "adUnitId": "ca-app-pub-3940256099942544/1033173712"}
+   {"image": null, "text": "", "type": "interstitial", "adUnitId": "ca-app-pub-8069319460842938/5295523236"}
 
 ]
