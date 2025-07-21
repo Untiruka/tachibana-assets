@@ -29,7 +29,7 @@
   {"image": "1000019365.webp", "text": "You: \"Alright! Chibi, you’re up next!\""},
   {"image": "1000019365.webp", "text": "You: \"She’s actually pretty positive, huh…\""},
   {"image": "1000019365.webp", "text": "Chibi: \"Yeah... I guess it’s good I’m the optimistic type...\""},
-{"type": "interstitial", "adUnitId": "ca-app-pub-3940256099942544/1033173712"},
+{"type": "interstitial", "adUnitId": "ca-app-pub-8069319460842938/9885504936"},
   {"image": "chibi_ready.webp", "text": "Chibi: \"Alright, it’s my turn.\""},
   {"image": "chibi_jumping1.webp", "text": "Chibi: \"Here goes!\""},
   {"image": "chibi_jumping1.webp", "text": "You: \"What?!\""},
@@ -52,7 +52,7 @@
   {"image": "tachibana_week.webp", "text": "Tachibana: 50 cm"},
   {"image": "tachibana_week.webp", "text": "You: 230 cm"},
   {"image": "tachibana_week.webp", "text": "Chibi: 330 cm"},
-{"type": "interstitial", "adUnitId": "ca-app-pub-3940256099942544/1033173712"},
+{"type": "interstitial", "adUnitId": "ca-app-pub-8069319460842938/9885504936"},
     {"image": "you_chibi_lineup.webp", "text": "Chibi: \"Last up... sit-ups.\""},
   {"image": "you_chibi_lineup.webp", "text": "You: \"Yeah...\""},
   {"image": "youthinking.webp", "text": "You: \"But honestly, isn't this one really for us...?\""},
@@ -105,6 +105,6 @@
   {"image": "sideview.webp", "text": "Tachibana: \"Thank you... really. Watch over me from heaven, okay?\""},
   {"image": "youwatchingoveryou_from_the_sky.webp", "text": "Tachibana: \"Watch over us.\""},
   {"image": "youwatchingoveryou_from_the_sky.webp", "text": "You: \"I’m not dead yet!\""},
-  {"type": "interstitial", "adUnitId": "ca-app-pub-3940256099942544/1033173712"}
+  {"type": "interstitial", "adUnitId": "ca-app-pub-8069319460842938/5295523236"}
 
 ]

@@ -1,0 +1,21 @@
+magick mogrify -path ./webp -format webp -quality 80 -resize 1024x1024 -strip *.png
+方法①：PowerShellで手動作成（そのまま打って）
+powershell
+Copy
+Edit
+mkdir webp
+方法②：エクスプローラーで「webp」って名前のフォルダを作成
+🎯 そのあと、もう一回変換コマンド叩く！
+powershell
+Copy
+Edit
+magick mogrify -path ./webp -format webp -quality 80 -strip *.png
+💡補足：バッチで自動作成したい場合はこう👇
+bat
+Copy
+Edit
+@echo off
+if not exist webp mkdir webp
+magick mogrify -path ./webp -format webp -quality 80 -strip *.png
+echo 完了やで！
+pause
