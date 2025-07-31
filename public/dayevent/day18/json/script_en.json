@@ -27,11 +27,11 @@
   {"image": "girls6.webp", "text": "Valley Girl B: \"Boy, not a chance in hell.\""},
   {"image": "girllittle.webp", "text": "Valley Girl F: \"Do you even hear what you're saying, like seriously?!\""},
   {"image": "gilrsgiga.webp", "text": "Valley Girl W: \"Mirror check, freak! Who even are you?!\""},
-  {"image": "giga.webp", "text": "Valley Girl W: \"I’ll eat you ALIVE!\""},
+  {"image": "giga.webp", "text": "Valley Girl W: \"I’ll eat you ALIVE!\"","se":"loar.mp3"},
   {"image": "giga.webp", "text": "You: \"Wait—there’s more of them?!\""},
   {"image": "giga.webp", "text": "You: \"Also that one’s scary!!\""},
   {"image": "you.webp", "text": "You: \"...\""},
-{"image": "roses.webp", "text": "You: \"Heh… must be blushing.\""}
+{"image": "roses.webp", "text": "You: \"Heh… must be blushing.\""},
   {"image": "roses.webp", "text": "Tachibana: \"Yeah right, as if.\""},
   {"image": "takemoto3.webp", "text": "Negative Takemoto: \"...\""},
   {"image": "takemotoy.webp", "text": "Negative Takemoto: \"You...\""},
