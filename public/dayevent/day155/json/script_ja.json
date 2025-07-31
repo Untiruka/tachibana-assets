@@ -1,5 +1,5 @@
 [
-  {"image": "sideprofiel.webp", "text": "たちばな「あなたは本を読むの？」"},
+  {"image": "sideprofiel.webp", "text": "たちばな「あなたは本を読むの？」","bgm":"maimaiwalk_compressed.mp3"},
   {"image": "sideprofiel.webp", "text": "あなた「いやー正直最近はもう読まないな。子供の頃やら、あと大学生の時によく読んでたけどな」"},
   {"image": "sideprofiel1.webp", "text": "たちばな「へーなにを？」"},
   {"image": "sideprofiel1.webp", "text": "あなた「子供の頃はデルトラ・クエスト、ハリー・ポッターとか。」"},

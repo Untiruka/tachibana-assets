@@ -1,5 +1,5 @@
 [
-  {"image": "bookstore.webp", "text": "…とある町の本屋さん"},
+  {"image": "bookstore.webp", "text": "…とある町の本屋さん","bgm":"maimaiwalk_compressed.mp3"},
   {"image": "takemoto.webp", "text": "ネガティブ竹本「…！」"},
   {"image": "youtachi.webp", "text": "たちばな「お！ネガティブ竹本君じゃん！」"},
   {"image": "takemotostanding.webp", "text": "あなた「知り合いか？めちゃめちゃかっこいいな」"},

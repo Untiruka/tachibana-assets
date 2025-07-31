@@ -1,5 +1,5 @@
 [
-  {"image": "sideprofiel.webp", "text": "Tachibana: \"Do you read books?\""},
+  {"image": "sideprofiel.webp", "text": "Tachibana: \"Do you read books?\"","bgm":"maimaiwalk_compressed.mp3"},
   {"image": "sideprofiel.webp", "text": "You: \"Nah, honestly not much these days. I used to read a lot as a kid and back in college, though.\""},
   {"image": "sideprofiel1.webp", "text": "Tachibana: \"Oh yeah? Like what?\""},
   {"image": "sideprofiel1.webp", "text": "You: \"Stuff like Deltora Quest and Harry Potter when I was a kid.\""},

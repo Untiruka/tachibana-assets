@@ -1,5 +1,5 @@
 [
-  {"image": "bookstore.webp", "text": "Somewhere in a quiet town... a little bookstore."},
+  {"image": "bookstore.webp", "text": "Somewhere in a quiet town... a little bookstore.","bgm":"maimaiwalk_compressed.mp3"},
   {"image": "takemoto.webp", "text": "Negative Takemoto: \"...!\""},
   {"image": "youtachi.webp", "text": "Tachibana: \"Hey! Isn't that Negative Takemoto?!\""},
   {"image": "takemotostanding.webp", "text": "You: \"You know him? Damn, he’s good-looking.\""},
