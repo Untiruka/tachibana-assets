@@ -26,9 +26,11 @@
   {"image": "girls6.webp", "text": "ギャルA「うわ…きっしょ…」"},
   {"image": "girls6.webp", "text": "ギャルB「そんなん無理に決まってるっしょ…」"},
   {"image": "girllittle.webp", "text": "ギャルF「自分で何言ってるかわかってるでやんすか？！」"},
+    {"image": "girllittle.webp", "text": "あなた「誰？！」"},
+
   {"image": "gilrsgiga.webp", "text": "ギャルW「鏡見てから言えよな！このくそ男が！」"},
-  {"image": "giga.webp", "text": "ギャルW「食っちまうぞ！」"},
-  {"image": "giga.webp", "text": "あなた「あれ？！こんなにいたっけ？！」"},
+  {"image": "giga.webp", "text": "ギャルW「食っちまうぞ！」","se": "loar.mp3"},
+  {"image": "giga.webp", "text": "あなた「あれ？！こんなにギャルいたっけ？！」"},
   {"image": "giga.webp", "text": "あなた「あとこのギャル怖い！」"},
   {"image": "you.webp", "text": "あなた「…」"},
   {"image": "roses.webp", "text": "あなた「照れちゃって…」"},
