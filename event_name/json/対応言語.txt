@@ -1,0 +1,16 @@
+script_id.json	インドネシア語	locale.language == "id"
+script_zh.json	中国語（簡体字）	locale.language == "zh" かつ country が "cn" / "sg" / その他（TW, HK, MO 以外）
+script_zh_tw.json	中国語（繁体字）	locale.language == "zh" かつ country が "tw" / "hk" / "mo"
+script_hi.json	ヒンディー語（インド）	locale.language == "hi"
+script_tr.json	トルコ語	locale.language == "tr"
+
+
+
+言語	Localeコード	備考
+ベンガル語	bn	バングラデシュ・インド東部、人口多い
+ウルドゥー語	ur	パキスタン・インド北部、利用者数大
+タイ語	th	東南アジアでAndroid普及率高い
+ベトナム語	vi	東南アジアの中でもGoogle Play利用率高め
+フィリピン語（タガログ語）	fil	英語と混在利用されるがローカル翻訳需要あり
+フランス語	fr	アフリカ市場にも影響大（北・西アフリカ）
+ポルトガル語	pt	ブラジルが巨大市場
