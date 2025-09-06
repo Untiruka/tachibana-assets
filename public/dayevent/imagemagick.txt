@@ -1,0 +1,1 @@
+magick mogrify -quality 60 -format webp "C:\Users\IRUKA\tachibana_assets\public\dayevent\day5\image\*.png" "C:\Users\IRUKA\tachibana_assets\public\dayevent\day5\image\*.jpg"
