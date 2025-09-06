@@ -37,7 +37,7 @@
   {"image": "21.webp", "text": "あなた「ひどいなこいつ…マラソン大会で一緒に走ろうね言って先に走って行っちゃう奴よりひどい…」"},
     {"image": "white_background.webp", "text": "…"},
 
-  {"image": "24.webp", "text": "楽しく歌おう"},
+  {"image": "24.webp", "text": "楽しく歌おう","bgm": "STOP"},
   {"image": "25.webp", "text": "たちばな「…」"},
   {"image": "26.webp", "bgm": "Come_Birds_Music_Box.mp3", "text": "たちばな「ルン・ルン・ルン、蜂が飛ぶ。」"},
   {"image": "27.webp", "text": "たちばな「祈りを捧げよ大地の恵みに」"},
@@ -45,11 +45,11 @@
   {"image": "29.webp", "text": "たちばな「息絶える」"},
   {"image": "30.webp", "text": "たちばな「咽び泣く姿に我に返るよ」"},
   {"image": "31.webp", "text": "たちばな「ルン・ルン・ルン」"},
-  {"image": "32.webp", "text": "たちばな「得も知れず」"},
+  {"image": "32.webp", "text": "たちばな「兵が行く」"},
   {"image": "33.webp", "text": "たちばな「されど慈しむいとまもないまま」"},
   {"image": "34.webp", "text": "たちばな「ルン・ルン・ルン」"},
   {"image": "35.webp", "text": "たちばな「人が死ぬ。」"},
-  {"image": "36.webp", "text": "「…」"},
+  {"image": "36.webp", "text": "「…」","bgm": "STOP"},
   {"image": "13_q50.webp", "text": "ちび「想定していた歌よりめちゃめちゃ怖いんだけど…」"},
   {"image": "14_q50.webp", "text": "あなた「最悪だ…元の歌が全く思い出せなくなった…」"}
 ]
